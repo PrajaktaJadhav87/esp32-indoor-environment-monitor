@@ -21,10 +21,12 @@ A proposed embedded-systems design for monitoring indoor temperature, relative h
 - Appropriate USB supply, wiring, and enclosure
 
 ## Architecture
-See [`diagrams/Indoor_Environmental_Monitor_Block_Diagram.png`](diagrams/Indoor_Environmental_Monitor_Block_Diagram.png).
+
+![System Block Diagram](Indoor_Environmental_Monitor_Block_Diagram.png)
 
 ## Requirements and Design Report
-See [`docs/Week1_Embedded_System_Requirements_Report.docx`](docs/Week1_Embedded_System_Requirements_Report.docx).
+
+[Download the Week 1 Report](Week1_Embedded_System_Requirements_Report.docx)
 
 ## Proposed Data Flow
 1. Sensors provide measurements to the ESP32.
@@ -68,4 +70,5 @@ The following values are illustrative only and are not real device measurements.
 This repository contains the Week 1 design deliverables. If implementation is added later, place firmware source in a `firmware/` directory and document board pin mappings, libraries, build steps, and actual test results.
 
 ## Author
-Replace this section with your name and internship details before publishing.
+Prajakta Jadhav
+Embedded Systems Engineer Intern
